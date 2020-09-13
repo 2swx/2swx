@@ -1,16 +1,18 @@
-### Hi there 👋
+<p align="center">
+  <a>
+<img src="https://cdn.discordapp.com/attachments/662063908370120706/754651676765585418/Erwin-Rommel.jpg" alt="Avatar" style="border-radius: 75%;">
+  </a><br>
+</p>
 
-<!--
-**2swx/2swx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<details style='text-align: center;' align='center'>
+  <summary> Information </summary>
+  <p style="text-align: center;"align="center">Age: 25 </p></a>
+  <p style="text-align: center;"align="center">Location: KSA</p></a>
+  <p style="text-align: center;"align="center">NOTHING 😎</p></a>
+  <p style="text-align: center;"align="center">------------------------------------------------------------</p>
+</details>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details style='text-align: center;' align='center'>
+  <summary>Social Info</summary>
+  <a href="https://discord.com/users/322211982600175617"><p style="text-align: center;"align="center">Discord</p></a>
+</details>
