@@ -1,5 +1,6 @@
-![stat](https://github-readme-stats.vercel.app/api/top-langs/?username=2swx&layout=compact&langs_count=8)
 ![2sw's GitHub stats](https://github-readme-stats.vercel.app/api?username=2swx&theme=dark&show_icons=true&count_private=true)
+![stat](https://github-readme-stats.vercel.app/api/top-langs/?username=2swx&layout=compact&langs_count=8)
+
 <p align="center">
   <a>
 <img src="https://cdn.discordapp.com/attachments/662063908370120706/754651676765585418/Erwin-Rommel.jpg" alt="Avatar" style="border-radius: 75%;">
