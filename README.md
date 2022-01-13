@@ -1,3 +1,4 @@
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
 <p align="center">
   <a>
 <img src="https://cdn.discordapp.com/attachments/662063908370120706/754651676765585418/Erwin-Rommel.jpg" alt="Avatar" style="border-radius: 75%;">
