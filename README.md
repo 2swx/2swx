@@ -14,5 +14,5 @@
 
 <details style='text-align: center;' align='center'>
   <summary>Social Info</summary>
-  <a href="https://discord.com/users/322211982600175617"><p style="text-align: center;"align="center">Discord</p></a>
+  <a href="https://discord.com/users/201331332209573888"><p style="text-align: center;"align="center">Discord</p></a>
 </details>
